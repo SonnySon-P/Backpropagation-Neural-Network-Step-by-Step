@@ -6,4 +6,4 @@
 
 **開發環境：** Python
 
-**題目解說：** 依照上課時所說明的以下網頁上的程序來學習多層次類神經網路的權重，教學網頁：https://hmkcode.github.io/ai/backpropagation-step-by-step/。
+**題目解說：** 依照上課時教授講解的以下網頁上的內容來學習多層次類神經網路，教學網頁：https://hmkcode.github.io/ai/backpropagation-step-by-step/。
